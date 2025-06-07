@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there Aditya👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i-ujjwaljha)](https://git.io/streak-stats)
 <!--
 **adixabhi/adixabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
